@@ -1,0 +1,1 @@
+javascript:void(window.open('/wp-admin','_blank'));
